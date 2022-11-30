@@ -1,4 +1,5 @@
 #Faça uma lista de compras com While
+
 print('Digite sua lista de compras.')
 print('Para sair digite fim!')
 compras = []
